@@ -1,0 +1,35 @@
+/* Universal styles */
+
+body {
+   font-family: Verdana;
+   background-color: Black;
+   text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+/*footer*/
+
+.footer {
+    text-align: right;
+}
